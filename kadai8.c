@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Good Morning GitHub!\n");
+    printf("Hi GitHub!\n");
     return 0;
 }
